@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safa AZZOUZ</h1>
+
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
 <h3 align="center">I am a student of Software Engineering at Enset Mohammedia I have a strong passion for web and mobile development and consider myself a perpetual learner in this field. Being an ardent coder, I enjoy experimenting with cutting-edge technologies and frameworks to develop visually stunning, responsive, and dynamic web applications. From front-end design to back-end development to full-stack integration, I am always eager to explore new avenues. ✍️ During my leisure time, I devote myself to learning novel things.</h3>
 
 <h3 align="left">Connect with me:</h3>
